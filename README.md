@@ -1,7 +1,6 @@
-## <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25"/> Azimjon Ilkhomov | Full Stack Developer
+## <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="25"/> Azimjon Ilkhomov | Full Stack Developer | 
 
 I enjoy creating solutions that make life easier using software
-
 * 🌍  I'm based in New York
 * 🖥️  See my portfolio at [ajilk](http://ajilk.com)
 
@@ -9,7 +8,6 @@ I enjoy creating solutions that make life easier using software
 src="https://img.shields.io/github/followers/ajilk?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a>
 
 ### Skills
-
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -26,7 +24,7 @@ src="https://img.shields.io/github/followers/ajilk?logo=github&style=for-the-bad
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.credly.com/badges/3228ffa7-804b-462a-b472-e1416046edae" target="_blank"><img src="resources/aws.png" height="32" /></a>
 </p>
 
 ### Socials
@@ -38,3 +36,4 @@ src="https://img.shields.io/github/followers/ajilk?logo=github&style=for-the-bad
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/ajilk/tracked" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajilk&repo=tracked&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/ajilk/ajilk.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ajilk&repo=ajilk.github.io&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
