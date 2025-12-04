@@ -1,5 +1,6 @@
-<h1 align="center">hey, i'm azim <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
-
+<h1 align="center">hey, i'm azim 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+</h1>
 <h3 align="center">software engineer | building things that don't break (usually)</h3>
 <p align="center">
   <a href="https://ajilk.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/></a>
