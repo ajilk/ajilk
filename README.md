@@ -10,13 +10,6 @@
   <a href="http://cp.ajilk.com/"><img src="https://img.shields.io/badge/CP_CHEAT_SHEET-000000?style=for-the-badge"/></a>
 </p>
 
-<p align="center">
-  <a href="https://www.brooklyn.edu/"><img src="https://img.shields.io/badge/Brooklyn%20College-B.S.%20Computer%20Science%20[2019]-000000?style=for-the-badge"/></a>
-  <a href="https://pe.gatech.edu/degrees/analytics"><img src="https://img.shields.io/badge/Georgia%20Tech-M.S.%20Data%20Analytics%20[2027]-000000?style=for-the-badge"/></a>
-  <a href="https://www.credly.com/badges/3228ffa7-804b-462a-b472-e1416046edae"><img src="https://img.shields.io/badge/AWS-Certified%20Developer-000000?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-</p>
-
-
 ### 👨‍💻 about me
 
 **Full Stack Engineer** specializing in TypeScript ecosystems (React/Next.js/Node.js). 
@@ -70,6 +63,7 @@ testing, and making complex systems simple.
   <strong>Tools & Platforms</strong><br/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
 </p>
 
 <p align="center">
