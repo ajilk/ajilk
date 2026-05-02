@@ -14,10 +14,7 @@
 
 ### 👨‍💻 about me
 
-**Full Stack Engineer** specializing in TypeScript ecosystems (React/Next.js/Node.js). 
-I love building products from 0→1 and obsess over developer experience, both for 
-users and the engineers maintaining the code. Strong believer in type safety, 
-testing, and making complex systems simple.
+Builder who ships. Obsessed with code that's easy to read, hard to break, and actually solves the problem.
 
 **what I'm up to:**
 - 🏗️ Building full-stack applications with **Next.js**, **React**, and **Node.js**
