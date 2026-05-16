@@ -9,7 +9,7 @@
   <a href="https://ajilk.com/resume"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge"/></a>
   <a href="https://linkedin.com/in/ajilk/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge"/></a>
   <a href="http://log.ajilk.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge"/></a>
-  <a href="http://cp.ajilk.com/"><img src="https://img.shields.io/badge/CP_CHEAT_SHEET-000000?style=for-the-badge"/></a>
+  <a href="http://dsa.ajilk.com/"><img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge"/></a>
 </p>
 
 ### 👨‍💻 about me
